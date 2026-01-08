@@ -1,15 +1,7 @@
-# 全体マップ
-①CUIアプリ  
-②GUIアプリ  
-③Webアプリ
+# Introduction
+This project is a simple todo application written in Java.  
+It is intended as learning project to practice core java concepts.
 
-を目標に行っていく。
 
-# 概要設計
-・基本機能  
-ToDoの登録  
-ToDoの削除  
-ToDO完了化
-アプリを閉じても保存されている
 
 
