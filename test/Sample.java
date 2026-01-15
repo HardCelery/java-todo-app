@@ -12,7 +12,6 @@ class Sample {
                 break;
             }
             System.out.println("Case" + " " + i + ":" + " " + x);
-
         }
     }
 }
